@@ -8,7 +8,7 @@ I am very dedicated and passionate about programming. I am an adaptable person w
 <!-- - 🤔 I’m looking for help with ... -->
 - 🌱 I’m currently learning Docker
 - 💬 Ask me about Anything 
-- 📫 How to reach me: Follow me on social media 
+- 📫 How to reach me: Follow me on social  media 
 
 
 
