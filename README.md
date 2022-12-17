@@ -10,6 +10,7 @@ I am very dedicated and passionate about programming. I am an adaptable person w
 - 💬 Ask me about Anything 
 - 📫 How to reach me: Follow me on social  media 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=knrbokhari&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20' color='white'>](https://www.linkedin.com/in/kazinaeemrayhan/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/kazinieem.nieem/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://github.com/knrbokhari/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://github.com/knrbokhari/)
@@ -18,4 +19,4 @@ I am very dedicated and passionate about programming. I am an adaptable person w
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knrbokhari&layout=compact)](https://github.com/knrbokhari/github-readme-stats)
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=knrbokhari&" alt="sumaiya7121" /></p>
