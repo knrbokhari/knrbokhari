@@ -8,7 +8,7 @@ I am very dedicated and passionate about programming. I am an adaptable person w
 <!-- - 🤔 I’m looking for help with ... -->
 - 🌱 I’m currently learning Docker
 - 💬 Ask me about Anything 
-- 📫 How to reach me: Follow me on social  media 
+- 📫 How to reach me: Follow me on social media 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knrbokhari&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
