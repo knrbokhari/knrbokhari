@@ -19,4 +19,4 @@ I am very dedicated and passionate about programming. I am an adaptable person w
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knrbokhari&layout=compact)](https://github.com/knrbokhari/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=knrbokhari&" alt="sumaiya7121" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=knrbokhari&" /></p>
