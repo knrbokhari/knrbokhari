@@ -12,8 +12,6 @@ I am very dedicated and passionate about programming. I am an adaptable person w
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knrbokhari&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<!-- [<img src='https://user-images.githubusercontent.com/83659148/177087766-e11801cb-5431-42db-bfc8-f7f28b77f619.png' alt='github' height='40'>](https://github.com/knrbokhari)  [<img src='https://user-images.githubusercontent.com/83659148/177087944-adb37308-9e50-4aa1-bc54-22ddad8e44a5.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/kazinaeemrayhan/)  [<img src='https://user-images.githubusercontent.com/83659148/177087378-b030a530-02d1-4b0b-b74f-dd62216c58f9.png' alt='facebook' height='40'>](https://www.facebook.com/kazinieem.nieem)  [<img src='https://user-images.githubusercontent.com/83659148/177087867-80dbdb61-63ea-4222-a5ac-b81595b5208f.png' alt='instagram' height='40'>](https://www.instagram.com/) -->
-
 <a href="https://www.linkedin.com/in/kazinaeemrayhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="naeem" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19066276/kazi-naeem-rayhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" alt="naeem" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kazinieem.nieem" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="naeem" height="30" width="40" /></a>
