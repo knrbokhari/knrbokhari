@@ -1,5 +1,5 @@
 ### My name is Kazi Naeem Rayhan
-#### I am MERN Stack Web Application Developer 
+#### I am Full Stack Web Application Developer 
 
 I am very dedicated and passionate about programming. I am an adaptable person who is looking forward to learning new techniques, skills, and methods in order to gain experience that can be used in a career in the near and distant future.
 
