@@ -1,7 +1,7 @@
 ### My name is Kazi Naeem Rayhan
 #### I am Full Stack Web Application Developer 
 
-I am very dedicated and passionate about programming. I am an adaptable person who is looking forward to learning new techniques, skills, and methods in order to gain experience that can be used in a career in the near and distant future.
+A dynamic and passionate Full Stack Developer with 1 year of hands-on experience in crafting robust web applications. I have working experience in NodeJs, ExpressJs, Nestjs, MongoDB, JavaScript, TypeScript, ReactJS, Redux, Prisma,  Unit Testing, and other technologies. I am eager to contribute my skills to a forward-thinking team and take on new challenges in the ever-evolving landscape of technology.
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
